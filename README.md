@@ -24,7 +24,7 @@
 You'll need to have [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/) installed.
 
 Once that's done, you can run the following commands...
-
+d
 ```bash
 git clone https://github.com/Stability-AI/StableStudio.git
 
